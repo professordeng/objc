@@ -1,4 +1,4 @@
-[Archives](/) | [Resources](/resources)
+[Archives](/) | [Resources](/oc-learning/resources)
 
 ## List of Articles
 
