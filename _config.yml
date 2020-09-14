@@ -1,7 +1,15 @@
-title: objc 教程
+title: objc
 url: https://professordeng.github.io
 baseurl: /objc
 description: ProfessorDeng
-# permalink: none
+img: /objc/img                           # 图片路径
+
+# 插件
+plugins:
+  - jekyll-feed                           # 订阅插件
+  - jekyll-sitemap                        # 站点地图
+  - jemoji                                # GitHub 表情
+  - jekyll-avatar                         # GitHub 头像
+  - jekyll-mentions                       # GitHub 提名
 
 math: "<script type=\"text/x-mathjax-config\">MathJax.Hub.Config({tex2jax: {inlineMath: [ ['$','$'] ]}});</script><script src=\"//cdn.bootcss.com/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML\"></script>"
