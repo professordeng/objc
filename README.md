@@ -1,2 +1,5 @@
-# oc-learning
-OC 学习笔记
+# objc 教程
+
+- master 是代码分支
+- 文字教程 → <https://professordeng.com/objc>
+
